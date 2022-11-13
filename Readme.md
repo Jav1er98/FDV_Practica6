@@ -59,7 +59,7 @@
       
       6. Ambos objetos son físicos y uno de ellos está marcado como IsTrigger.
       
-      - El zombie al estar con fisicas y marcado como IsTrigger cae indefinidamente.
+      - El goblin al estar con fisicas y marcado como IsTrigger cae indefinidamente.
        
       ![gif ejercicio 5](/gifs/Ejercicio6.gif)
       
